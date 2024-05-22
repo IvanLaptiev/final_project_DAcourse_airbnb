@@ -1,4 +1,12 @@
 # Hello and welcome to my first project as Data Analyst!
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Project Steps](#project-steps)
+- [Conclusion and Recommendations](#conclusion-and-recommendations)
+
 ## Project Overview
 As final part of my Data Analyst Program that I took in the Hebrew University, we've been tasked to imagine ourselves a data analysts working for a potential investor who’s considering investing in short-term rental properties in a selected state in Europe. I got the city of Bordeaux. We had to analyze the Airbnb dataset and to provide insights that will guide investor's investment strategy.
 
