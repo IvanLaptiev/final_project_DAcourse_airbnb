@@ -1,4 +1,4 @@
-# Hello and welcome to my first project as Data Analyst!
+# Hello and welcome to my final project for my Data Analyst Course!
 
 ## Table of Contents
 - [Project Overview](#project-overview)
