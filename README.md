@@ -1,4 +1,4 @@
-# Hello and welcome to my final project for the Data Analyst Course at Hebrew University Business School!
+# Hello and welcome to my final project for the Data Analyst Course at the Hebrew University Business School!
 
 ## Table of Contents
 - [Project Overview](#project-overview)
